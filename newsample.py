@@ -1,2 +1,1 @@
-print("hello new verion" \
-"")
+print("hello new verion \n")
